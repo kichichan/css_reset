@@ -1,0 +1,48 @@
+html {
+    font-size: 1em;
+}
+
+body {
+    font-family: 'Oxygen', sans-serif;
+    font-weight: 300;
+    line-height: 1.6;
+    margin: 5em 0;
+    text-rendering: optimizeLegibility;
+    color: #595959;
+}
+
+.container  {
+    width: 800px;
+    margin: 0 auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+}
+
+h1, h2, h3 {
+    line-height: 1.2;
+}
+
+h1 {
+    font-size: 3.998em;
+}
+
+h2 {
+    font-size: 2.827em;
+}
+
+h3 {
+    font-size: 1.999em;
+}
+
+
+blockquote {
+    border-left: 4px solid #ddd;
+    color: #aaa;
+    font-size: 1.2em;
+    font-style: italic;
+    margin: 3em auto;
+    padding-left: 2em;
+}
